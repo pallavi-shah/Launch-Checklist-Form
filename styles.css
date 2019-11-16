@@ -29,7 +29,7 @@ div {
 }
 
 #missionTarget img {
-    max-width: 40%;
+    max-width: 40%; 
     max-height: 250px;
 }
 
@@ -40,6 +40,11 @@ div {
     width: 50%;
     border: 3px solid black;
     padding: 10px;
+}
+
+ol.mission{
+    list-style-position: outside;
+    text-align: center;
 }
 
 button {
